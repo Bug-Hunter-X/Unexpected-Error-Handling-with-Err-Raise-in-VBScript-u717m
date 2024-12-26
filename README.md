@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue in VBScript's error handling using `Err.Raise`. Specifically, raising a custom error number (9999 in this example) may cause conflicts or unexpected behavior if not carefully managed. The `bug.vbs` file shows the problematic code, while `bugSolution.vbs` provides a more robust approach.
